@@ -72,34 +72,6 @@ This system was designed with professional SaaS architecture principles:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/MOHAMEDJAMA1/SOMEDU.git
-cd SOMEDU
-```
-
-### 2. Install dependencies
-```bash
-npm install
-```
-
-### 3. Set up environment variables
-```bash
-cp .env.example .env.local
-# Fill in your Supabase URL and keys
-```
-
-### 4. Run the development server
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
 ## Purpose of This Repository
 
 This repository is intended for **portfolio and showcase purposes only.**
